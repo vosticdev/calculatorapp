@@ -1,0 +1,6 @@
+C:\School\CalculatorMaster\Win_CalcLibrary\obj\Debug\Win_CalcLibrary.csproj.AssemblyReference.cache
+C:\School\CalculatorMaster\Win_CalcLibrary\obj\Debug\Win_CalcLibrary.csproj.CoreCompileInputs.cache
+C:\School\CalculatorMaster\Win_CalcLibrary\bin\Debug\CalcLibrary.dll
+C:\School\CalculatorMaster\Win_CalcLibrary\bin\Debug\CalcLibrary.pdb
+C:\School\CalculatorMaster\Win_CalcLibrary\obj\Debug\CalcLibrary.dll
+C:\School\CalculatorMaster\Win_CalcLibrary\obj\Debug\CalcLibrary.pdb

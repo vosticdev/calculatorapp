@@ -1,0 +1,19 @@
+c:\users\shawn martin\documents\visual studio 2015\Projects\Win_Calc\Win_CalcUI\bin\Debug\Win_CalcUI.exe.config
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\bin\Debug\Win_CalcUI.exe
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\bin\Debug\Win_CalcUI.pdb
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.csprojResolveAssemblyReference.cache
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.CalculatorUI.resources
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.Properties.Resources.resources
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.GenerateResource.Cache
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.exe
+C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.pdb
+C:\School\CalculatorMaster\Win_CalcUI\bin\Debug\Win_CalcUI.exe.config
+C:\School\CalculatorMaster\Win_CalcUI\bin\Debug\Win_CalcUI.exe
+C:\School\CalculatorMaster\Win_CalcUI\bin\Debug\Win_CalcUI.pdb
+C:\School\CalculatorMaster\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.AssemblyReference.cache
+C:\School\CalculatorMaster\Win_CalcUI\obj\Debug\Win_CalcUI.CalculatorUI.resources
+C:\School\CalculatorMaster\Win_CalcUI\obj\Debug\Win_CalcUI.Properties.Resources.resources
+C:\School\CalculatorMaster\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.GenerateResource.cache
+C:\School\CalculatorMaster\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.CoreCompileInputs.cache
+C:\School\CalculatorMaster\Win_CalcUI\obj\Debug\Win_CalcUI.exe
+C:\School\CalculatorMaster\Win_CalcUI\obj\Debug\Win_CalcUI.pdb
